@@ -1,6 +1,6 @@
-# BaiduBaikeDemo
+# BaiduBaike
 
-BaiduBaikeDemo By Samboo.
+BaiduBaike By Samboo.
 
 Thank you for your support! if you like it,Please star me!!!
 
